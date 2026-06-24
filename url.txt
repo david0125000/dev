@@ -1,1 +1,8 @@
-http://175.155.64.174:19716/
+data0622_1_doc.7z	https://storage.to/K4uxTyC4U
+data0622_1_m.rar	https://storage.to/OZ8iiw1H7
+data0622_2_t.rar	https://storage.to/gYfUPNQDV
+data0622_4_p.7z		https://storage.to/QxICcNrup	
+data0622_5_u.rar	https://storage.to/nymSoSGlK
+data0622_7_y.7z	  https://storage.to/fnJLegLlA
+data0622_8_c.rar	https://storage.to/aaOlTYnBr
+ubuntu-24.04.4-desktop-amd64.iso https://releases.ubuntu.com/24.04/ubuntu-24.04.4-desktop-amd64.iso
